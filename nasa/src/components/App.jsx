@@ -32,10 +32,11 @@ function App() {
 
     const date = `${year}-${month}-${day}`;
     const response = await getPicture(date);
+
     setImgUrl(response.hdurl);
     setImgTitle(response.title);
   };
-
+  console.log(imgUrl);
   return (
     <div className={wrapper}>
       <CalendarContainer onChange={onChange} value={getDate()} />
