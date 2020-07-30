@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Nasa-pictures/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Nasa-pictures/static/js/main.56e9d7a3.chunk.js",
+    "main.js.map": "/Nasa-pictures/static/js/main.56e9d7a3.chunk.js.map",
+    "runtime-main.js": "/Nasa-pictures/static/js/runtime-main.555ad703.js",
+    "runtime-main.js.map": "/Nasa-pictures/static/js/runtime-main.555ad703.js.map",
+    "static/css/2.8dbe6964.chunk.css": "/Nasa-pictures/static/css/2.8dbe6964.chunk.css",
+    "static/js/2.4478c3ee.chunk.js": "/Nasa-pictures/static/js/2.4478c3ee.chunk.js",
+    "static/js/2.4478c3ee.chunk.js.map": "/Nasa-pictures/static/js/2.4478c3ee.chunk.js.map",
+    "index.html": "/Nasa-pictures/index.html",
+    "precache-manifest.4c985a46c9e4e6c22419d376c469b15f.js": "/Nasa-pictures/precache-manifest.4c985a46c9e4e6c22419d376c469b15f.js",
+    "service-worker.js": "/Nasa-pictures/service-worker.js",
+    "static/css/2.8dbe6964.chunk.css.map": "/Nasa-pictures/static/css/2.8dbe6964.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Nasa-pictures/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4478c3ee.chunk.js.LICENSE.txt": "/Nasa-pictures/static/js/2.4478c3ee.chunk.js.LICENSE.txt",
+    "static/media/cosmos.png": "/Nasa-pictures/static/media/cosmos.d50e9b6c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.555ad703.js",
+    "static/css/2.8dbe6964.chunk.css",
+    "static/js/2.4478c3ee.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.56e9d7a3.chunk.js"
+  ]
+}
